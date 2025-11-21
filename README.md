@@ -63,6 +63,8 @@ The semantic communication pipeline consists of:
 ```bash
 python main.py --prompt "your text description here"
 ```
+<img width="581" height="380" alt="input" src="https://github.com/user-attachments/assets/f41c628a-5521-4bfa-b60b-05f15443bd27" />
+<img width="682" height="402" alt="output" src="https://github.com/user-attachments/assets/6eff4cef-5dea-4f47-9ebd-cb6fb50157f5" />
 
 ## Project Structure
 
